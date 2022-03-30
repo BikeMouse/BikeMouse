@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BikeMouse
 - 👀 I’m interested in Bike-Tech
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/Webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
