@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Node.js and Express for Webdevelopment
 - 💞️ ...
 - 👨‍💻 All of my projects are available at [https://judithkraziewicz.netlify.app/](https://judithkraziewicz.netlify.app/)
-- 📫 How to reach me:
+- 📫 How to reach me: Send me a message through my socials!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
