@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Judith Kraziewicz (@BikeMouse)
-# I'm an Edinburgh (Scotland) based software engineer coding full-stack Javascript applications.
+## I'm an Edinburgh (Scotland) based software engineer coding full-stack Javascript applications.
 
 - 👀 I’m interested in Bike-Tech
 - 🌱 I’m currently learning Node.js and Express for Webdevelopment
