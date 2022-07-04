@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @BikeMouse
+# 👋 Hi, I’m Judith Kraziewicz (@BikeMouse)
+# I'm an Edinburgh (Scotland) based software engineer coding full-stack Javascript applications.
+
 - 👀 I’m interested in Bike-Tech
-- 🌱 I’m currently learning JavaScript/Webdevelopment
+- 🌱 I’m currently learning Node.js and Express for Webdevelopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+     - Twitter: https://twitter.com/rogandaeve
+     - LinkedIn: https://www.linkedin.com/in/judith-kraziewicz/
+     - My Portfolio: https://judithkraziewicz.netlify.app/
 
 <!---
 BikeMouse/BikeMouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
