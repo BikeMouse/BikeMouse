@@ -2,7 +2,7 @@
 <h3 align="center">I'm an Edinburgh (Scotland) based software engineer coding full-stack JavaScript applications.</h3>
 
 - 👀 I’m interested in Bike-Tech
-- 🌱 I’m currently learning React.js for Web development
+- 🌱 I’m currently learning Python
 - 💞️ ...
 - 👨‍💻 Highlights of my projects are available at [https://judithkraziewicz.netlify.app/](https://judithkraziewicz.netlify.app/)
 - 📫 How to reach me: Send me a message through my socials!
